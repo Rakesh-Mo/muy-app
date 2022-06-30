@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mondal/muy-app/static/css/main.5a4b7016.css",
+    "main.js": "/mondal/muy-app/static/js/main.e9950090.js",
+    "static/js/787.ef0a8dff.chunk.js": "/mondal/muy-app/static/js/787.ef0a8dff.chunk.js",
+    "index.html": "/mondal/muy-app/index.html",
+    "main.5a4b7016.css.map": "/mondal/muy-app/static/css/main.5a4b7016.css.map",
+    "main.e9950090.js.map": "/mondal/muy-app/static/js/main.e9950090.js.map",
+    "787.ef0a8dff.chunk.js.map": "/mondal/muy-app/static/js/787.ef0a8dff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a4b7016.css",
+    "static/js/main.e9950090.js"
+  ]
+}
